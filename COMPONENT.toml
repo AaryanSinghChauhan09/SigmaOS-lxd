@@ -3,7 +3,7 @@ name = "SigmaOS-lxd"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "lxd component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
